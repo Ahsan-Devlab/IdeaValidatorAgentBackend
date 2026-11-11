@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pydantic-settings
+langchain
+langchain-openai
+langgraph
+httpx
+tavily-python
+reportlab
+supabase
